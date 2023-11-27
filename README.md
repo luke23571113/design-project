@@ -32,3 +32,10 @@ Basically a minimalistic social media app, that DOESN'T try to draw the user in 
 
 - There is no way to reach people outside of your circle. but peopel in ur circle can post text, photos, video. 
 
+## Ryan's Questions:
+What is the app's strategy to make a profit, given that it aims to reduce addictiveness and prolonged use?
+How does a new user initially build their circle? Is it through manual searching or via contacts, and how is the 'node' system introduced to them?
+How will notifications be managed to prevent them from becoming a source of distraction or addiction? Will users have detailed control over what notifications they receive?
+What is the competitive aspect of this app, since follower competition would likely go against the aim of this app? 
+Are there any limitations on the type of content (size or duration of videos, image formats) that can be shared within circles?
+If, hypothetically, I had an account that was only 1 circle deep, and my friend has a friend who can see 2 circles deep, would they be able to see my posts? Or does it have to be mutual?
